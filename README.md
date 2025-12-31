@@ -8,12 +8,15 @@
   
 </div>
 
-## 🎯 Descripción del Proyecto
+## 📁 Fuente de Datos
 
-Este repositorio presenta un **dashboard completo de análisis de ventas** construido con Power BI, utilizando un conjunto de datos sintéticos generados con Python con fines educativos. El dataset contiene datos hipotéticos de ventas sin ningún parecido con empresas reales.
+El conjunto de datos utilizado en este proyecto fue obtenido de **Kaggle**:
 
-> **Nota:** Este es un proyecto de aprendizaje basado en datos de práctica disponibles públicamente. Cualquier similitud con negocios reales es pura coincidencia.
+🔗 **Product Sales Data**  
+https://www.kaggle.com/datasets/ksabishek/product-sales-data/data
 
+> El dataset fue adaptado y limpiado con fines educativos y de análisis.  
+> Los resultados del proyecto no representan información real de ninguna empresa.
 ---
 
 ## 🔍 Preguntas de Negocio Analizadas
