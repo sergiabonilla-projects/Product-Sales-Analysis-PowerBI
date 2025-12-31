@@ -93,23 +93,6 @@ Este repositorio presenta un **dashboard completo de análisis de ventas** const
 
 ---
 
-## 📂 Estructura del Proyecto
-
-```
-├── assets/
-│   ├── Análisis1.png
-│   ├── Análisis2.png
-│   ├── Análisis3.png
-│   ├── Análisis4.png
-│   ├── Análisis5.png
-│   └── Análisis5.1.png
-├── data/
-│   └── sales_data.csv
-└── README.md
-```
-
----
-
 ## 🚀 Conclusiones Clave
 
 ✅ El portafolio de productos está saludable con rendimiento estable  
@@ -123,9 +106,9 @@ Este repositorio presenta un **dashboard completo de análisis de ventas** const
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-url-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](tu-url-github)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](tu-url-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergia-b-088b35125)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiabonilla-projects)
+
 
 </div>
 
